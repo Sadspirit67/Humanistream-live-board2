@@ -1,5 +1,5 @@
 // ====== CONFIG ======
-const TWITCH_CLIENT_ID = "ewuh2hnhg1crfe8dwwvjb54gosuyvo";
+const TWITCH_CLIENT_ID = "y1z1ffxabakcw927se6dkm3jkhgpeb";
 const TWITCH_APP_TOKEN = "u28d8ip1479nep4isnjeqb04pvjvx6";
 const REFRESH_MS = 60_000;
 const STREAMERS_TXT_URL = "streamers.txt";
